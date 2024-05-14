@@ -1,0 +1,5 @@
+# config/routes/api.yaml
+api_routes:
+  resource: '../../src/Controller'
+  type: 'annotation'
+  prefix: '/api'
